@@ -42,13 +42,5 @@ body
 }
 #post
 {
-    color: white;
-}
-
-#footer
-{
-    color: #333;
-    text-align: center;
-    padding: 0.5em;
     background: white;
 }
